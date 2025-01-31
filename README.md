@@ -11,26 +11,26 @@ As part of a case study for Maven Fuzzy Factory, this project involves analyzing
 - Evaluate the impact of product launches and cross-sell opportunities
 
 ### 📂 Project Structure
-SQL Queries – SQL scripts for extracting and analyzing e-commerce data
-Power BI Dashboards – Interactive reports for tracking KPIs and trends
-Documentation – Explanation of SQL queries, insights, and methodology
+- SQL Queries – SQL scripts for extracting and analyzing e-commerce data
+- Power BI Dashboards – Interactive reports for tracking KPIs and trends
+- Documentation – Explanation of SQL queries, insights, and methodology
 
 ### 🛠️ Tools & Technologies
-SQL – Data extraction, transformation, and analysis
-Power BI – Visualization of KPIs and business metrics
+- SQL – Data extraction, transformation, and analysis
+- Power BI – Visualization of KPIs and business metrics
 
 ### 📈 Key Analyses
-Traffic & Channel Performance:
-Breakdown of site traffic by source
-Free vs. paid channel analysis
-Conversion rates by marketing channel
+##### Traffic & Channel Performance:
+- Breakdown of site traffic by source
+- Free vs. paid channel analysis
+- Conversion rates by marketing channel
 
-Website Performance Optimization:
-Funnel analysis for conversion rate improvement
-Bounce rate and landing page assessments
-Website session behavior trends
+##### Website Performance Optimization:
+- Funnel analysis for conversion rate improvement
+- Bounce rate and landing page assessments
+- Website session behavior trends
 
-Product Performance & Sales Analysis:
-Sales trends and seasonality insights
-Cross-sell and portfolio expansion analysis
-Refund rate analysis
+##### Product Performance & Sales Analysis:
+- Sales trends and seasonality insights
+- Cross-sell and portfolio expansion analysis
+- Refund rate analysis
